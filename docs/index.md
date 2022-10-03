@@ -3,4 +3,4 @@ The GitHub repository for this page is at [https://github.com/pisan385/unity/](h
 
 The corresponding web page is at [https://pisan385.github.io/unity/index.html](https://pisan385.github.io/unity/index.html)
 
-The WebGL build of a simple Unity project is at [https://pisan385.github.io/unity/WebGLBuild/](https://pisan385.github.io/unity/WebGLBuild/)
+The WebGL build of a simple Unity project is at [https://ali-ibrahim522.github.io/air_dodge/WebGL/](https://ali-ibrahim522.github.io/air_dodge/WebGL/)
